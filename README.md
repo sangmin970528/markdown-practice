@@ -55,14 +55,6 @@ _이텔릭_
 
 <a href="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>
 
-# 이미지(Images)
-
-![]()
-
-![HEROPY](https://heropy.blog/css/images/logo.png)
-
-[![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
-
 # 인용문(BlockQuote)
 
 > 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
